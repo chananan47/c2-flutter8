@@ -31,6 +31,7 @@ void main() {
             ),
             height: 40.0,
           ),
+          color: Colors.purple[600],
         ),
       ),
     ),
